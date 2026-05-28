@@ -1,0 +1,21 @@
+{
+  "name": "sunwin-ultimate-ai",
+  "version": "1.0.0",
+  "description": "Sunwin Ultimate AI with 500+ algorithms + Quantum Fusion",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["sunwin", "tai xiu", "ai", "prediction", "quantum fusion"],
+  "author": "LeviKing",
+  "license": "MIT"
+}
